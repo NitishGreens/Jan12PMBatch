@@ -14,4 +14,8 @@ public class Sample {
 		System.out.println("tc1");
 	}
 
+	public void tc5() {
+		System.out.println("tc1");
+	}
+
 }
